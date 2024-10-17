@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_image": "https://www.healthbenefitstimes.com/glossary/wp-content/uploads/2020/08/Recipe.jpg",
+      "recipe_id": 101,
+      "recipe_name": "Classic Chicken Curry",
+      "short_description": "A flavorful curry made with chicken pieces simmered.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+      "preparing_time": 30,
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://www.savoryonline.com/app/uploads/recipes/124630/gnocchi-with-meatballs-640x640-c-default.jpg",
+      "recipe_id": 102,
+      "recipe_name": "Vegetarian Lasagna",
+      "short_description": "Layers of pasta, cheese, and a hearty vegetable ragu, baked to perfection.",
+      "ingredients": ["250 g lasagna noodles", "400 g ricotta cheese", "300 g spinach", "200 g zucchini"],
+      "preparing_time": 45,
+      "calories": "410 calories"
+    },
+    {
+      "recipe_image": "https://www.wallpaperflare.com/static/778/966/360/greek-cooking-recipe-lettuce-wallpaper.jpg",
+      "recipe_id": 103,
+      "recipe_name": "Beef Stroganoff",
+      "short_description": "A classic comfort dish featuring sautéed beef in a creamy mushroom sauce served over noodles.",
+      "ingredients": ["500 g beef strips", "150 g sour cream", "250 g mushrooms", "100 ml beef broth"],
+      "preparing_time": 25,
+      "calories": "480 calories"
+    },
+    {
+      "recipe_image": "https://www.healthbenefitstimes.com/glossary/wp-content/uploads/2020/08/Recipe.jpg",
+      "recipe_id": 104,
+      "recipe_name": "Spicy Thai Salad",
+      "short_description": "A zesty salad with a kick, combining fresh vegetables and herbs with a tangy dressing.",
+      "ingredients": ["200 g mixed greens", "150 g cherry tomatoes", "100 g cucumber", "50 g peanuts"],
+      "preparing_time": 15,
+      "calories": "220 calories"
+    },
+    {
+      "recipe_image": "https://www.savoryonline.com/app/uploads/recipes/124630/gnocchi-with-meatballs-640x640-c-default.jpg",
+      "recipe_id": 105,
+      "recipe_name": "Chocolate Lava Cake",
+      "short_description": "A decadent dessert with a gooey chocolate center that flows like lava when cut open.",
+      "ingredients": ["200 g dark chocolate", "100 g butter", "150 g sugar", "3 eggs"],
+      "preparing_time": 35,
+      "calories": "530 calories"
+    },
+    {
+      "recipe_image": "https://www.wallpaperflare.com/static/778/966/360/greek-cooking-recipe-lettuce-wallpaper.jpg",
+      "recipe_id": 106,
+      "recipe_name": "Margarita Pizza",
+      "short_description": "A simple yet delicious pizza with tomato, mozzarella, and fresh basil.",
+      "ingredients": ["1 pizza dough", "150 g mozzarella cheese", "100 g tomato sauce", "50 g fresh basil"],
+      "preparing_time": 20,
+      "calories": "290 calories"
+    }
+  ]
+  
